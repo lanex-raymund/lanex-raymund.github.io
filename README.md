@@ -1,2 +1,2 @@
-### Resume
-*[Raymund Balicante Resume](http://rbalicante.github.io/)*
+### Resume Link
+*[Raymund Balicante Resume](http://lanex-raymund.github.io/)*
